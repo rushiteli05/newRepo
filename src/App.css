@@ -1,0 +1,106 @@
+.dinu{
+background-image: url('https://c4.wallpaperflare.com/wallpaper/66/25/239/machine-grey-background-volvo-wallpaper-preview.jpg');
+height: 600px;
+margin-top: 0px;
+background-repeat: no-repeat;
+
+}
+
+.nav-ul li{
+display: inline-block;
+padding: 10px;
+}
+
+.nav-ul{
+margin: 0;
+padding: 5px;
+background-color: skyblue;
+}
+
+.nav-ul li a{
+color:#fff;
+text-decoration: none;
+padding: 5px;
+}
+
+.nav-right{
+text-align: right;
+}
+
+.logo{
+width: 42px;
+float: left;
+border-radius: 50%;
+margin-top: 3px;
+margin-left:20px;
+}
+
+.footer{
+position: absolute;
+bottom: 0;
+text-align: center;
+width: 100%;
+background-color: skyblue;
+}
+
+.inputbox{
+display:block;
+margin: 25px;
+width: 300px;
+padding: 7px;
+border: 1 px solid skyblue;
+}
+
+.register , .product{
+margin-left:30% ;
+}
+
+ .register{
+margin-left: 850px;
+
+} 
+
+
+
+.login{
+margin-left: 30%;
+margin-top: 100px;
+}
+
+.appButton{
+margin: 25px;
+padding: 10px;
+width: 150px;
+background-color: skyblue;
+border: 1px solid rgb(170, 167, 167);
+cursor: pointer;
+}
+.invalid-input{
+color: red;
+margin-top:-20px ;
+display: block;
+margin-left: 20px;
+}
+
+.product-list{
+text-align: center;
+margin-top: 50px;
+}
+.product-list ul li{
+display: inline-block;
+border:1px solid black ;
+padding: 5px;
+width: 150px;
+}
+.product-list ul{
+margin: 0;
+}
+
+.search{
+
+    width: 300px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid black;
+    padding-left:20px ;
+}
